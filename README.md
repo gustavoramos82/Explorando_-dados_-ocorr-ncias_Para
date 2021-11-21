@@ -14,6 +14,10 @@ Inclusive temos alguns gráfico gerados:
 ![oco_2019](https://user-images.githubusercontent.com/39843884/142687003-0c9b603e-6460-4276-bc07-48caabc5a917.png)
 ![oc_2020](https://user-images.githubusercontent.com/39843884/142687035-d768d944-e9a9-4525-9de0-c7906fea62a2.png)
 ![oc_2021](https://user-images.githubusercontent.com/39843884/142687168-46906012-0906-4c2a-8351-9e0b1490ebd4.png)
+![soma de occorremcias](https://user-images.githubusercontent.com/39843884/142779409-c8061b16-c7c7-4836-a027-8cade0aadf81.png)
+
+
+
 
 O ponto vai ser aperfeçoar os gráficos e talvez comparar esses dados com os outros estados para se ter uma comparação.
 
